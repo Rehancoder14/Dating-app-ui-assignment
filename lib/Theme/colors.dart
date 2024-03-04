@@ -1,0 +1,22 @@
+import 'package:flutter/material.dart';
+
+Color kMainColor = const Color(0xFF0FC1A7);
+Color kDisabledColor = const Color(0xff616161);
+Color kTextColor = const Color(0xfffff9e9);
+Color kWhiteColor = Colors.white;
+Color kLightTextColor = const Color(0xff747474);
+Color kCardBackgroundColor = const Color(0xfff8f9fd);
+Color kTransparentColor = Colors.transparent;
+Color kMainTextColor = const Color(0xff000000);
+Color kIconColor = const Color(0xffc4c8c1);
+Color kHintColor = const Color(0xffa3a3a3);
+Color kContainerTextColor = const Color(0xff606060);
+Color kButtonColor = const Color(0xfffafafa);
+Color kButtonBorderColor = const Color(0xffe1e1e1);
+Color kButtonTextColor = const Color(0xffbababa);
+Color kLighterTextColor = const Color(0xffFFFFFF);
+Color inProcessColor = const Color(0xffF1BC23);
+Color starColor = Colors.amber;
+Color textFieldColor = const Color(0xff7c7c7c);
+Color lightGreyColor = const Color(0xffacacac);
+Color black2 = const Color(0xff4d4d4d);

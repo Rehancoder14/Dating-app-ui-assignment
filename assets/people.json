@@ -1,0 +1,75 @@
+{
+    "status":[
+        {
+            "id": 1,
+            "name": "Hritik",
+            "imgurl": "assets/img1.jpeg",
+            "profession": "college student",
+            "hobby": "Playing chess"
+
+        },
+        {
+            "id": 2,
+            "name": "Reh",
+            "imgurl": "assets/img2.jpeg",
+            "profession": "Intern",
+            "hobby": "Netflix"
+        },  
+        {
+            "id": 3,
+            "name": "Mark Chapman",
+            "imgurl": "assets/img3.jpeg",
+            "profession": "Lawyer",
+            "hobby": "Reading"
+        },
+        {
+            "id": 4,
+            "name": "Olivia",
+            "imgurl": "assets/img4.jpeg",
+            "profession": "Student",
+            "hobby": "Stone collecction"
+        },
+        {
+            "id": 5,
+            "name": "Georgia",
+            "imgurl": "assets/img5.jpeg",
+            "profession": "Gym professional",
+            "hobby": "Gym"
+        },
+        {
+            "id": 6,
+            "name": "Selena",
+            "imgurl": "assets/img6.jpeg",
+            "profession": "Coder",
+            "hobby": "Coder"
+        },
+        {
+            "id": 7,
+            "name": "Shawn",
+            "imgurl": "assets/img7.jpeg",
+            "profession": "college student",
+            "hobby": "Playing chess"
+        },
+        {
+            "id": 8,
+            "name": "Samael",
+            "imgurl": "assets/img8.jpeg",
+            "profession": "college student",
+            "hobby": "Playing chess"
+        },
+        {
+            "id":9,
+            "name": "Amenadiel",
+            "imgurl": "assets/img9.jpeg",
+            "profession": "Doctor",
+            "hobby": "reading book"
+        },
+        {
+            "id": 10,
+            "name": "Michael",
+            "imgurl": "assets/img10.jpeg",
+            "profession": "Cricketer",
+            "hobby": "Playing cricket"
+        }
+    ]
+}
